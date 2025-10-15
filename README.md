@@ -1,5 +1,5 @@
 # HangmanGame
-A game of Hangman for the course OOP2
+A game of Hangman for the course OOP2 at Uppsala University.
 
 The project is to create a game with object oriented programmign in C#.
 There are 6 concept requirements that needs to be implemented in a meaningful way.
